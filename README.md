@@ -1,5 +1,10 @@
 # Vue Store-Front Templete
 
+<details>
+<summary>Some description</summary>
+Lots of stuff here...
+</details>
+
 > An E-commerce templete made with bootstrap4
 > and Vue/Vuex/Vue-router.
 
